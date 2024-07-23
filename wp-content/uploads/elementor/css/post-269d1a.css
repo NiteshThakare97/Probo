@@ -4879,6 +4879,7 @@ body.rtl .elementor-26 .elementor-element.elementor-element-15f7d53 {
     color: #fff;
     margin-top: 55px;
     transition: 1s;
+    cursor: pointer;
 }
 
 #mainbanner-content button:hover {
